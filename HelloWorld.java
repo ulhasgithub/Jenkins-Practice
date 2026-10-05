@@ -1,7 +1,10 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, Jenkins Practice!");
-        System.out.println("practice makes perfact");
+        int a = 15;
+        int b = 20;
+        int sum = a + b;
+        System.out.println("The sum of two digits is: " + sum);
     }
 }
+
  
